@@ -4,7 +4,12 @@ import HeroesFilters from '../heroesFilters/HeroesFilters';
 
 import './app.scss';
 
+console.log('1');
+
+
 const App = () => {
+
+
 
     return (
         <main className="app">
